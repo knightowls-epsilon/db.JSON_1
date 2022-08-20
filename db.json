@@ -2,7 +2,29 @@
   "Notifications": [
    {
     "picture": "PICTURE1",
-    "notif": "vbdfgdf"
+    "notif": "CONGRATULATIONS! You are the last one standing therefore our...."
+   },
+    {
+    "picture": "PICTURE1",
+    "notif": "Well done! You've got the 1st question on Round 1 right ..."
+   },
+    {
+    "picture": "PICTURE1",
+    "notif": "Sorry! You've got the 2nd  question on Round 1 wrong ...."
+   },
+    
+    
+    {
+    "picture": "PICTURE1",
+    "notif": "You just have been gifted FREE life. Thanks to our gene...."
+   },
+    {
+    "picture": "PICTURE1",
+    "notif": "You are down to 1 life remaining You can buy a life now for...."
+   },
+    {
+    "picture": "PICTURE1",
+    "notif": "Welcome to KONKA SPORTS APP You can now enjoy playing games....."
    }
 
    ]
