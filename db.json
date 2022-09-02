@@ -1,32 +1,50 @@
 {
   "Notifications": [
    {
-     "id": 1,
+    "id": 1,
+    "email": "admin@konkacharitysports.com",
+    "date":"Sep 2, 2022",
+    "time":"09:45am",
     "picture": "PICTURE1",
     "notif": "CONGRATULATIONS! You are the last one standing therefore our You are the last one standing therefore our "
    },
     {
-       "id": 2,
+    "id": 2,
+    "email": "support@konkacharitysports.com",
+    "date":"Sep 2, 2022",
+    "time":"09:45am",
     "picture": "PICTURE2",
     "notif": "Well done! You've got the 1st question on Round 1 right Well done! You've got the 1st question on Round 1 right"
    },
     {
-       "id": 3,
+    "id": 3,
+     "email": "support@konkacharitysports.com",
+    "date":"Sep 2, 2022",
+    "time":"09:45am",
     "picture": "PICTURE3",
     "notif": "Sorry! You've got the 2nd  question on Round 1 wrong Sorry! You've got the 2nd  question on Round 1 wrong"
    },
     {
-       "id": 4,
+    "id": 4,
+    "email": "admin@konkacharitysports.com",
+    "date":"Sep 2, 2022",
+    "time":"09:45am",
     "picture": "PICTURE4",
     "notif": "You just have been gifted FREE life. Thanks to our gene You just have been gifted FREE life. Thanks to our gene"
    },
     {
-       "id": 5,
+    "id": 5,
+     "email": "support@konkacharitysports.com",
+    "date":"Sep 2, 2022",
+    "time":"09:45am",
     "picture": "PICTURE5",
     "notif": "You are down to 1 life remaining You can buy a life now for You are down to 1 life remaining You can buy a life now for"
    },
     {
-       "id": 6,
+     "id": 6,
+     "email": "admin@konkacharitysports.com",
+    "date":"Sep 2, 2022",
+    "time":"09:45am",
     "picture": "PICTURE6",
     "notif": "Welcome to KONKA SPORTS APP You can now enjoy playing games Welcome to KONKA SPORTS APP You can now enjoy playing games"
    }
