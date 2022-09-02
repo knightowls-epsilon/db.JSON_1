@@ -2,6 +2,7 @@
   "Notifications": [
    {
     "id": 1,
+    "title": "Congratulations",
     "email": "admin@konkacharitysports.com",
     "day":"Fri",
     "date":"Sep 22, 2022",
@@ -11,7 +12,8 @@
    },
     {
     "id": 2,
-      "day":"Sat",
+     "title": "Well done",
+    "day":"Sat",
     "email": "support@konkacharitysports.com",
     "date":"June 12, 2022",
     "time":"11:45am",
@@ -20,8 +22,9 @@
    },
     {
     "id": 3,
-      "day":"Sun",
-     "email": "support@konkacharitysports.com",
+    "title": "Sorry",
+    "day":"Sun",
+    "email": "support@konkacharitysports.com",
     "date":"Feb 2, 2020",
     "time":"09:45am",
     "picture": "PICTURE3",
@@ -29,7 +32,8 @@
    },
     {
     "id": 4,
-      "day":"Mon",
+    "title": "Free Life",
+    "day":"Mon",
     "email": "admin@konkacharitysports.com",
     "date":"Dec 2, 2022",
     "time":"12:45am",
@@ -38,17 +42,19 @@
    },
     {
     "id": 5,
-      "day":"Tue",
-     "email": "support@konkacharitysports.com",
+    "title": "Remaining Life",
+    "day":"Tue",
+    "email": "support@konkacharitysports.com",
     "date":"July 2, 2022",
     "time":"12:00pm",
     "picture": "PICTURE5",
     "notif": "You are down to 1 life remaining You can buy a life now for You are down to 1 life remaining You can buy a life now for"
    },
     {
-     "id": 6,
-      "day":"Thur",
-     "email": "admin@konkacharitysports.com",
+    "id": 6,
+    "title": "Welcome",
+    "day":"Thur",
+    "email": "admin@konkacharitysports.com",
     "date":"August 2, 2022",
     "time":"01:45am",
     "picture": "PICTURE6",
