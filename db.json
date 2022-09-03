@@ -67,32 +67,32 @@
   { 
     "id":1,
     "picture": "PICTURE1",
-    "notif": "CONGRATULATIONS! You are the last one standing therefore our...."
+    "notif": "CONGRATULATIONS! You are the last one standing therefore our  You are the last one standing therefore our"
   },
   {
     "id":2,
     "picture": "PICTURE2",
-    "notif": "Well done! You've got the 1st question on Round 1 right ..."
+    "notif": "Well done! You've got the 1st question on Round 1 right You've got the 1st question on Round 1 right "
   },
   {
     "id":3,
     "picture": "PICTURE3",
-    "notif": "Sorry! You've got the 2nd  question on Round 1 wrong ...."
+    "notif": "Sorry! You've got the 2nd  question on Round 1 wrong You've got the 2nd  question on Round 1 wrong"
   },
   {
     "id":4,
     "picture": "PICTURE4",
-    "notif": "You just have been gifted FREE life. Thanks to our gene...."
+    "notif": "You just have been gifted FREE life. Thanks to our gene You just have been gifted FREE life. Thanks to our gene"
   },
   {
     "id":5,
     "picture": "PICTURE5",
-    "notif": "You are down to 1 life remaining You can buy a life now for...."
+    "notif": "You are down to 1 life remaining You can buy a life now for You are down to 1 life remaining You can buy a life now for"
   },
   {
     "id":6,
     "picture": "PICTURE6",
-    "notif": "Welcome to KONKA SPORTS APP You can now enjoy playing games....."
+    "notif": "Welcome to KONKA SPORTS APP You can now enjoy playing games You can now enjoy playing games"
   }
 ]
         
