@@ -2,7 +2,7 @@
   "Notifications": [
    {
     "id": 1,
-    "title": "Congratulations",
+    "title": "CONGRATULATIONS",
     "day":"Fri",
     "email": "admin@konkacharitysports.com",
     "date":"Sep 22, 2022",
@@ -12,7 +12,7 @@
    },
     {
     "id": 2,
-     "title": "Well done",
+     "title": "WELL DONE",
     "day":"Sat",
     "email": "support@konkacharitysports.com",
     "date":"June 12, 2022",
@@ -22,7 +22,7 @@
    },
     {
     "id": 3,
-    "title": "Sorry",
+    "title": "SORRY",
     "day":"Sun",
     "email": "support@konkacharitysports.com",
     "date":"Feb 2, 2020",
@@ -32,7 +32,7 @@
    },
     {
     "id": 4,
-    "title": "Free Life",
+    "title": "FREE LIFE",
     "day":"Mon",
     "email": "admin@konkacharitysports.com",
     "date":"Dec 2, 2022",
@@ -42,7 +42,7 @@
    },
     {
     "id": 5,
-    "title": "Remaining Life",
+    "title": "REMAINING LIFE",
     "day":"Tue",
     "email": "support@konkacharitysports.com",
     "date":"July 2, 2022",
@@ -52,7 +52,7 @@
    },
     {
     "id": 6,
-    "title": "Welcome",
+    "title": "WELCOME",
     "day":"Thur",
     "email": "admin@konkacharitysports.com",
     "date":"August 2, 2022",
